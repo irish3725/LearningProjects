@@ -21,13 +21,12 @@ Hi Kayla! Here is a list of projects that you can try to use learn how to progra
     7.  Integral Calculator
     8.  Image Manipulator
     9.  Wikipedia Web Scraper
-    10. 2048 in a terminal
+    10. 2048 Game
 
 All of these projects can be as simple or complex as you would like them to be. You can add UI or not. The language you choose could also make a difference in difficulty. 
 
 If you have anything to add, let me know!
 
 
-Alex Irish
-irish3725@gmail.com
+email: irish3725@gmail.com
 
